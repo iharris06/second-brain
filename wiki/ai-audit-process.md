@@ -22,6 +22,7 @@ How MIRK runs an audit end to end: intake, discovery call, AI synthesis, deliver
 
 ## 4. Deliverable: Business X-Ray
 - Self-contained dark-mode HTML file driven by an `AUDIT_DATA` JS object; no backend ([[Xray prompt]]). Example output: ![[Business Xray Revenue Wins.html]] ([[Xray - html base]]).
+- PDF variant: "System Architecture Blueprint" test output from the Make.com pipeline ![[MIRK_Audit_Doo Doo.pdf]].
 - Revenue calculator embed: [[Revenue calculator script]].
 - Personalize with the prospect's real review gaps, estimated missed calls and $ lost per month ([[7 Day Plan]]).
 
@@ -30,6 +31,11 @@ How MIRK runs an audit end to end: intake, discovery call, AI synthesis, deliver
 
 ## Worked example
 - Dance studio audit playbook, with phased questions, admin checklist, software picks and scheduling-algorithm data fields ([[Melanie Dance Studio]]).
+
+## Reference material
+- Whitepaper on aligning people, process and tech for production AI: ![[The Agentic Operating Model.pdf]].
+- Example "AI bot team" roster for a business owner (chief-of-staff bot routing to content, video and research bots), a model for agent offers: ![[advisory_bot-roster_v1.pdf]].
+- [[AI Concierge playbook]] (Notion link).
 
 ## Other audit types
 - Google Maps / GBP ranking audit: 5×5 grid scan, relevance/distance/prominence, monthly rescans, don't serve same-industry competitors within 20 miles ([[Google Maps Audit]]).

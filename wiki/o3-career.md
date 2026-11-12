@@ -12,6 +12,6 @@ Notes from recurring 1:1s (O3s) at Ian's consulting employer (Publicis Sapient).
 - To get to L2: spot the patterns used across the project, think ahead about growth, use AI (coding assistants, design review, automation), and build a promotion story with concrete goals. No set time in role; standard raise is 8–15%.
 
 ## Recurring threads
-- Balancing sprint scope against support load; troubleshooting tips such as checking config, clearing `.m2` and checking beans ([[2025-08-08]], [[2025-08-22]]).
+- Balancing sprint scope against support load; troubleshooting tips such as checking config, clearing `.m2` and checking beans ([[2025-07-25]], [[2025-08-08]], [[2025-08-22]]).
 - Leave and contract timing: talk to People Strategy first, then the team, before PI planning ([[End of Contract, Paternity Leave]]).
 - Latest (May 2026): run an AI-methods tag-up, use the extra velocity, improve code-review culture ([[2026-05-15]]).
