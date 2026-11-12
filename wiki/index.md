@@ -1,12 +1,15 @@
 ---
 type: index
+summary: "Catalog of every wiki page. Start here."
 updated: 2026-11-12
 ---
 # Index
 
-Read this first. One line per wiki page. Sources live in `raw/`; see [[CLAUDE]] for how this works.
+Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] for how this works; reusable procedures are in `skills/`.
 
 ## MIRK Technologies
+- [[mirk-positioning]]: canon: decided positioning (Ian fills in; TODOs open)
+- [[mirk-icp]]: canon: decided ideal customer profile (Ian fills in; TODOs open)
 - [[mirk-technologies]]: hub page for the agency: what it is, niche history, links to everything else
 - [[mirk-offers-and-pricing]]: offer ladder from Essentials to the $3k team audit; pricing conflicts flagged
 - [[ai-audit-process]]: intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough

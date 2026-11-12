@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "Short-form video and $97 digital product playbook."
 updated: 2026-11-12
 ---
 # Short-Form Content & Digital Products

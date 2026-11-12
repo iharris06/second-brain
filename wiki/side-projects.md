@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "Zona Bets, LearnAI, WiFi Battle, Neuron, Strive Within, ideas."
 updated: 2026-11-12
 ---
 # Side Projects

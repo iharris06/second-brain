@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "1:1 notes, level ladder, promotion path, leave/contract timing."
 updated: 2026-11-12
 ---
 # Day Job: O3 1:1s & Career Levels

@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "Offer ladder from Essentials to the $3k team audit; pricing conflicts flagged."
 updated: 2026-11-12
 ---
 # MIRK Offers & Pricing

@@ -1,5 +1,6 @@
 ---
 type: entity
+summary: "Agent-based prospecting with gap scoring; real-estate listing-kit offer."
 updated: 2026-11-12
 ---
 # Hyperagent

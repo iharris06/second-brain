@@ -1,5 +1,6 @@
 ---
 type: entity
+summary: "Hub page for the agency: what it is, niche history, links to everything else."
 updated: 2026-11-12
 ---
 # MIRK Technologies
@@ -17,6 +18,7 @@ Ian's AI automation agency, based in Mesa, AZ. It is built on GoHighLevel (GHL) 
 - Advice from [[lucas-petty]]: start small, lead with giving, sell your strengths.
 
 ## Related pages
+- [[mirk-positioning]] and [[mirk-icp]]: canon; the answers here override the candidates below
 - [[mirk-offers-and-pricing]]: what is sold and for how much
 - [[ai-audit-process]]: how the audit is run and delivered
 - [[mirk-sales-and-outreach]]: getting in front of owners
@@ -26,4 +28,4 @@ Ian's AI automation agency, based in Mesa, AZ. It is built on GoHighLevel (GHL) 
 - [[short-form-content]]: content and digital-product playbook
 
 ## Open questions
-- Which niche is current: home services, $2–10M general SMB, or accounting? Each source assumes a different one.
+- Which niche is current: home services, $2–10M general SMB, or accounting? Each source assumes a different one. Decide it in [[mirk-icp]].

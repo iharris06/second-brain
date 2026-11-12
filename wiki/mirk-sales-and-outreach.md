@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "7-day sprint, niche outreach, scripts, lead lists, objections."
 updated: 2026-11-12
 ---
 # MIRK Sales & Outreach
