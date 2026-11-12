@@ -1,5 +1,6 @@
 ---
 type: entity
+summary: "Lead for an outbound demo-booking feature; discovery questions."
 updated: 2026-11-12
 ---
 # Dentimax

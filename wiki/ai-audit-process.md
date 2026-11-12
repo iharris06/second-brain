@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "Intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough."
 updated: 2026-11-12
 ---
 # AI Audit Process

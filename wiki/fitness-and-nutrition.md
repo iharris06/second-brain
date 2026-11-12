@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "Tactical Longevity program, shoulder block, diet and grocery lists."
 updated: 2026-11-12
 ---
 # Fitness & Nutrition

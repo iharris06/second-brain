@@ -1,5 +1,6 @@
 ---
 type: person
+summary: "Advisor call: give first, start small, follow-ups owed."
 updated: 2026-11-12
 ---
 # Lucas Petty

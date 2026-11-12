@@ -1,5 +1,6 @@
 ---
 type: topic
+summary: "GoHighLevel agency setup, A2P, Essentials workflows, CRM tags."
 updated: 2026-11-12
 ---
 # MIRK GoHighLevel Setup
