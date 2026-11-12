@@ -1,0 +1,13 @@
+# Potential Names
+- Harris Tech Edge
+- Harris Peak Technologies LLC **
+- INH Labs
+- East Valley Systems
+- Harrix labs
+- Harris Next labs
+- Harris Nex labs
+- HarrisX Labs **
+- Rakai Labs **
+- RKMI Labs **
+- Rkai Labs
+- MIRK Labs **

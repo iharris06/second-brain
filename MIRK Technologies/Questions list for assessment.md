@@ -1,0 +1,7 @@
+-  "If you doubled your revenue today, what part of your business would break first?"
+- After a lead comes in, what happens?
+- You have some great Google reviews. Do you feel that the number of reviews you have is representative of the number of happy customers? 
+- If you could completely automate one task today that you do, what would it be? 
+- You're granted a blank check to change something in your business. 
+-  what task do you find yourself doing repeatedly? 
+- At the end of the month, what's stressing you out the most?
