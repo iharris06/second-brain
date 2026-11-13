@@ -8,8 +8,8 @@ updated: 2026-11-12
 Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] for how this works; reusable procedures are in `skills/`.
 
 ## MIRK Technologies
-- [[mirk-positioning]]: canon: decided positioning (Ian fills in; TODOs open)
-- [[mirk-icp]]: canon: decided ideal customer profile (Ian fills in; TODOs open)
+- [[mirk-positioning]]: canon: one-liner, who we serve, differentiators (one TODO: the alternative)
+- [[mirk-icp]]: canon: $2–10M local small business, admin pain, buying triggers, disqualifiers
 - [[mirk-technologies]]: hub page for the agency: what it is, niche history, links to everything else
 - [[mirk-offers-and-pricing]]: offer ladder from Essentials to the $3k team audit; pricing conflicts flagged
 - [[ai-audit-process]]: intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough

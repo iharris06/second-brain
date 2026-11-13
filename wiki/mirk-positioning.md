@@ -1,23 +1,28 @@
 ---
 type: canon
-summary: MIRK's decided positioning (who it serves, what it replaces, why it wins). Ian fills this in; it's the anchor for all MIRK content.
+summary: MIRK's decided positioning: local small businesses ($2–10M) losing hours to admin; a local, tool-agnostic engineer who gives owners 5+ hours a week back.
 updated: 2026-11-12
 ---
 # MIRK Positioning
 
-Canon: only Ian's decided answers go here. Candidates found in the notes are listed so he can pick one.
-
-## Who we serve
-TODO: pick one. Candidates: home-service businesses in the East Valley ([[7 Day Plan]]), $2–10M small businesses ([[Target Market]]), small accounting firms ([[Outreach and call for Accounting]]). Details in [[mirk-icp]].
-
-## What they'd do without us
-TODO: candidates: ignore the problem and lose missed calls and leads ([[7 Day Plan]]); make bad tech hires and pick the wrong software ([[Ai Audit Call flow]]).
-
-## What makes us different
-TODO: candidates: a local software engineer, not a marketer ([[Outreach and call for Accounting]]); a platform-agnostic auditor who recommends the best tool, not just what MIRK builds ([[Ai Audit Call flow]]).
-
-## Why it matters to them
-TODO
+Canon: Ian's decided answers (2026-11-12). These override the candidates in other notes. Full profile: [[mirk-icp]].
 
 ## One-liner
-TODO
+"I help business owners reclaim 5+ hours a week by streamlining their operations using simple AI and smart automation."
+
+## Who we serve
+Local small businesses doing $2–10M in revenue, in any industry, whose owners are losing time to admin work. No single niche for now. (This replaces the October accounting-firm test; see [[Outreach and call for Accounting]].)
+
+## The problem we lead with
+Admin time drain: hours lost every week to manual, repetitive operational work.
+
+## What makes us different
+- **An engineer, not a reseller.** A backend software engineer who builds custom when off-the-shelf tools fall short.
+- **Tool-agnostic advisor.** Recommends the best tool for the job, even ones MIRK doesn't build or sell ([[Ai Audit Call flow]]).
+- **Local and in person.** Mesa-based; meets owners face to face.
+
+## Why it matters to them
+They get 5+ hours a week back to spend on running and growing the business instead of on operations.
+
+## What they'd do without us
+TODO: what is the realistic alternative (do nothing, hire admin help, DIY ChatGPT, a national agency)?

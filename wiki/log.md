@@ -20,3 +20,6 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 - Added the no-secrets rule, a `summary:` field on every page, and the `canon` page type.
 - Moved reusable prompts into `skills/` (business-xray, website-redesign, lead-prospecting), each with a SKILL.md.
 - Created [[mirk-positioning]] and [[mirk-icp]] with TODOs for Ian to decide.
+
+## [2026-11-12] query | Filled canon: [[mirk-positioning]], [[mirk-icp]] from Ian's answers
+- Niche: any local $2–10M small business (replaces the accounting test). Lead pain: admin time drain. Remaining TODO: the alternative to MIRK.

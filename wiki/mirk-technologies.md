@@ -10,7 +10,7 @@ Ian's AI automation agency, based in Mesa, AZ. It is built on GoHighLevel (GHL) 
 ## Facts
 - Name was picked from a shortlist that also included Harris Peak Technologies, HarrisX Labs, Rakai Labs and RKMI Labs ([[Agency Name]]).
 - AZ LLC filed via Bizee, EIN obtained, GHL $297 Unlimited plan, toll-free number for A2P ([[Agency Creation Checklist]]). See [[mirk-ghl-setup]].
-- Target market has shifted over time:
+- Current target: see [[mirk-icp]]. Earlier targets, in order:
   - Home service businesses (HVAC, plumbing, landscaping) in Mesa/East Valley ([[7 Day Plan]], [[Cold email]])
   - Small businesses doing $2M–$10M with real admin pain ([[Target Market]])
   - Small accounting firms in the East Valley, approached with "research, not selling" outreach ([[Outreach and call for Accounting]])
@@ -28,4 +28,4 @@ Ian's AI automation agency, based in Mesa, AZ. It is built on GoHighLevel (GHL) 
 - [[short-form-content]]: content and digital-product playbook
 
 ## Open questions
-- Which niche is current: home services, $2–10M general SMB, or accounting? Each source assumes a different one. Decide it in [[mirk-icp]].
+- None. The niche was decided 2026-11-12 in [[mirk-icp]]: any local $2–10M small business. The target-market list above is history.

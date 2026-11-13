@@ -1,17 +1,20 @@
 ---
 type: canon
-summary: MIRK's ideal customer profile (industry, size, location, pains, buying triggers). Ian fills this in; outreach and offers key off it.
+summary: MIRK's decided ideal customer: $2–10M local small business, any industry, admin pain, ready because of growth, owner fatigue or AI curiosity.
 updated: 2026-11-12
 ---
 # MIRK Ideal Customer Profile
 
-Canon: only Ian's decided answers go here.
+Canon: Ian's decided answers (2026-11-12). Positioning: [[mirk-positioning]].
 
-| Field | Decision | Candidates in the notes |
-|---|---|---|
-| Industry | TODO | Home services: HVAC, plumbing, landscaping ([[7 Day Plan]]); accounting firms ([[Outreach and call for Accounting]]); warm list spans PT, chiro, insurance, law ([[10-Person Warm List]]) |
-| Size | TODO | $2–10M revenue ([[Target Market]]); 15+ employees for the team audit ([[$3000 package]]) |
-| Location | TODO | Mesa / East Valley ([[7 Day Plan]]) |
-| Top pains | TODO | Missed calls, slow review responses, no online booking ([[Signal Checklist]]); admin drag, chasing documents ([[Outreach and call for Accounting]]) |
-| Buying trigger | TODO | |
-| Disqualifiers | TODO | Already well-automated ([[Lead prospecting with Outreach]]); same-industry competitor within 20 miles of an existing client ([[Google Maps Audit]]) |
+| Field | Decision |
+|---|---|
+| Industry | Any. Local small businesses, no niche for now |
+| Size | $2–10M revenue ([[Target Market]]) |
+| Location | Local: Mesa / East Valley, where meeting in person is possible |
+| Top pain | Admin time drain: hours lost to manual, repetitive operational work |
+| Buying triggers | Growth is breaking things (volume up, owner or office drowning); the owner wants out of day-to-day ops; AI curiosity (knows they "should do AI" but not where to start) |
+| Disqualifiers | Already automated (modern stack plus an ops person); under $2M revenue; heavy compliance (HIPAA or regulated data) to start; not interested in AI modernization |
+
+## Notes
+- Earlier candidates (home services, accounting firms, team audits for 15+ employees) are history, not current targeting. See [[mirk-technologies]].
