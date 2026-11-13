@@ -25,3 +25,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 - Niche: any local $2–10M small business (replaces the accounting test). Lead pain: admin time drain. Remaining TODO: the alternative to MIRK.
 
 ## [2026-11-12] query | Filled the last TODO in [[mirk-positioning]] (the DIY alternative)
+
+## [2026-11-12] ingest | Pricing ladder and Golden Hour -> [[mirk-pricing-ladder]], [[mirk-offers-and-pricing]], [[index]]
