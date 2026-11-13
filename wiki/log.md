@@ -34,3 +34,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-12] ingest | Retainer follow-up -> [[mirk-pricing-ladder]]: sessions monthly; Notion hub exists, with transcript-update skills in progress
 
 ## [2026-11-12] ingest | Model follow-up -> [[mirk-pricing-ladder]], [[mirk-ghl-setup]], [[mirk-offers-and-pricing]]: old plans retired, all work comes from assessments, $999 not credited, GHL scope reduced
+
+## [2026-11-12] query | Shelved the $200 light retainer; planned a Notion CRM to replace GHL later

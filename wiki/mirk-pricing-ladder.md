@@ -10,7 +10,7 @@ Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). 
 ## Model
 - **All work comes from assessments.** The old plan tiers (Starter/Core/Pro, Essentials, voice plans) are retired.
 - **Concierge framework:** audit the current process, optimize it, then automate it. Each cycle surfaces new work to automate or build.
-- **Exit:** when a client no longer needs the retainer, they cancel. A possible light ~$200/mo retainer would cover occasional one-off questions.
+- **Exit:** when a client no longer needs the retainer, they cancel.
 
 ## Ladder
 1. **Free assessment:** exactly ONE, given in exchange for a testimonial.
@@ -57,5 +57,4 @@ Sold on top of the retainer, never instead of it. The retainer is the relationsh
 - **Golden Hour:** 10–11 am every weekday, outreach only. It's on Ian's calendar.
 
 ## Open questions
-- Is the light ~$200/mo retainer a go, and what does it include?
 - Does the $999 credit apply to early clients, and to how many?
