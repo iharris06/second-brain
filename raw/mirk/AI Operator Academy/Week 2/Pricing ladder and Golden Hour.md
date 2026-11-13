@@ -8,3 +8,5 @@ My answers:
 
 Follow-up (2026-11-12):
 I'm fine with 70/30, honestly we decide when we come to that. The waitlist will reduce sales effort and give warm leads. The tools for this are Claude Cowork. The concierge is done-with-you consulting: setting up Claude Cowork with them and helping them create their own skills to replace their manual processes. We can build a skill in the 2 45-minute sessions that are included in the retainer. If they need more support they have Voxer access to me with a 12 business hour SLA to answer questions. If they want done-for-you I charge more for that depending on what it is (rubric to follow).
+
+Follow-up (2026-11-12): Sessions are monthly. I have the Notion page (client hub). I am adding skills for updating this page based on transcripts.

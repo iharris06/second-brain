@@ -30,3 +30,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 
 ## [2026-11-12] ingest | Done-for-you upsell menu -> [[mirk-pricing-ladder]]
 - Flagged: the menu's tooling (Zapier/Make, Custom GPT) and Notion hub/strategy calls don't match the stated retainer scope.
+
+## [2026-11-12] ingest | Retainer follow-up -> [[mirk-pricing-ladder]]: sessions monthly; Notion hub exists, with transcript-update skills in progress

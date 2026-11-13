@@ -20,7 +20,8 @@ Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). 
 
 ## What the retainer includes
 - **Done-with-you consulting:** set up Claude Cowork with the client and help them build their own skills to replace manual processes.
-- **Two 45-minute sessions** per month; one skill gets built in those sessions.
+- **Two 45-minute sessions per month**; one skill gets built in those sessions.
+- **Notion client hub** with a quantified build list. Ian is building skills that update it from session transcripts. The hub is what sells the upsell menu.
 - **Voxer access** to Ian, with answers within 12 business hours.
 - **Done-for-you** work is billed extra from the upsell menu below.
 - Tooling is Claude Cowork.
@@ -50,7 +51,5 @@ Sold on top of the retainer, never instead of it. The retainer is the relationsh
 
 ## Open questions
 - The menu assumes Zapier/Make.com and Custom GPTs; MIRK's stack is Claude Cowork (skills) plus GHL. Which tools does each tier actually use?
-- The menu assumes monthly strategy calls and a Notion hub with a quantified build list. Neither is in the retainer scope above. Are they part of it?
-- Are the two 45-minute sessions per month?
 - Does the $999 assessment fee credit toward the retainer if they sign?
 - Are the older plan tiers (Starter $497 / Core $797 / Pro $1,297, Essentials, voice plans) retired?
