@@ -1,11 +1,11 @@
 ---
 type: topic
-summary: "Offer ladder from Essentials to the $3k team audit; pricing conflicts flagged."
+summary: "History of every price and offer in the notes. The current ladder is canon in mirk-pricing-ladder."
 updated: 2026-11-12
 ---
 # MIRK Offers & Pricing
 
-The offer ladder is: audit to get in the door, then a monthly automation plan, then AI agents and team-wide audits. Prices differ between notes; see Open questions.
+**Current pricing is canon in [[mirk-pricing-ladder]]** (decided 2026-11-12). The table below is the history from older notes.
 
 ## Ladder (as written in the sources)
 | Offer | Price | What it is | Source |
@@ -22,6 +22,4 @@ Checkout plans tagged in the CRM: starter, professional, hosting, voice-standard
 Post-assessment promise: a report with quick wins and longer-term projects, which the client can DIY or hire out, plus a 2-week follow-up ([[After the assessment]]).
 
 ## Open questions
-- Is the audit $997, $999 or $1,000, and is it free as a door-opener or paid?
-- Is the entry plan Essentials ($197–297) or Starter ($497)?
-- Prices for professional, hosting, voice-standard and voice-pro.
+- None. All of the above is retired (2026-11-12); current pricing is [[mirk-pricing-ladder]].

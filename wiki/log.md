@@ -20,3 +20,19 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 - Added the no-secrets rule, a `summary:` field on every page, and the `canon` page type.
 - Moved reusable prompts into `skills/` (business-xray, website-redesign, lead-prospecting), each with a SKILL.md.
 - Created [[mirk-positioning]] and [[mirk-icp]] with TODOs for Ian to decide.
+
+## [2026-11-12] query | Filled canon: [[mirk-positioning]], [[mirk-icp]] from Ian's answers
+- Niche: any local $2–10M small business (replaces the accounting test). Lead pain: admin time drain. Remaining TODO: the alternative to MIRK.
+
+## [2026-11-12] query | Filled the last TODO in [[mirk-positioning]] (the DIY alternative)
+
+## [2026-11-12] ingest | Pricing ladder and Golden Hour -> [[mirk-pricing-ladder]], [[mirk-offers-and-pricing]], [[index]]
+
+## [2026-11-12] ingest | Done-for-you upsell menu -> [[mirk-pricing-ladder]]
+- Flagged: the menu's tooling (Zapier/Make, Custom GPT) and Notion hub/strategy calls don't match the stated retainer scope.
+
+## [2026-11-12] ingest | Retainer follow-up -> [[mirk-pricing-ladder]]: sessions monthly; Notion hub exists, with transcript-update skills in progress
+
+## [2026-11-12] ingest | Model follow-up -> [[mirk-pricing-ladder]], [[mirk-ghl-setup]], [[mirk-offers-and-pricing]]: old plans retired, all work comes from assessments, $999 not credited, GHL scope reduced
+
+## [2026-11-12] query | Shelved the $200 light retainer; planned a Notion CRM to replace GHL later

@@ -8,10 +8,11 @@ updated: 2026-11-12
 Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] for how this works; reusable procedures are in `skills/`.
 
 ## MIRK Technologies
-- [[mirk-positioning]]: canon: decided positioning (Ian fills in; TODOs open)
-- [[mirk-icp]]: canon: decided ideal customer profile (Ian fills in; TODOs open)
+- [[mirk-positioning]]: canon: one-liner, who we serve, differentiators, the DIY alternative
+- [[mirk-pricing-ladder]]: canon: 1 free → $999 assessment → retainer (6 spots, $1k/$1.5k/$2k) → done-for-you menu ($1k–10k+), waitlist, Golden Hour
+- [[mirk-icp]]: canon: $2–10M local small business, admin pain, buying triggers, disqualifiers
 - [[mirk-technologies]]: hub page for the agency: what it is, niche history, links to everything else
-- [[mirk-offers-and-pricing]]: offer ladder from Essentials to the $3k team audit; pricing conflicts flagged
+- [[mirk-offers-and-pricing]]: history of older offers and prices (current pricing: mirk-pricing-ladder)
 - [[ai-audit-process]]: intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough
 - [[mirk-sales-and-outreach]]: 7-day sprint, niche outreach, scripts, lead lists, objections
 - [[mirk-ghl-setup]]: GoHighLevel agency setup, A2P, Essentials workflows, CRM tags
