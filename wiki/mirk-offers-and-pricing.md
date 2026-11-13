@@ -22,6 +22,4 @@ Checkout plans tagged in the CRM: starter, professional, hosting, voice-standard
 Post-assessment promise: a report with quick wins and longer-term projects, which the client can DIY or hire out, plus a 2-week follow-up ([[After the assessment]]).
 
 ## Open questions
-- ~~Is the audit $997, $999 or $1,000?~~ Settled: $999, plus one free assessment for a testimonial ([[mirk-pricing-ladder]]).
-- Is the entry plan Essentials ($197–297) or Starter ($497)?
-- Prices for professional, hosting, voice-standard and voice-pro.
+- None. All of the above is retired (2026-11-12); current pricing is [[mirk-pricing-ladder]].

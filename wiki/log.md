@@ -32,3 +32,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 - Flagged: the menu's tooling (Zapier/Make, Custom GPT) and Notion hub/strategy calls don't match the stated retainer scope.
 
 ## [2026-11-12] ingest | Retainer follow-up -> [[mirk-pricing-ladder]]: sessions monthly; Notion hub exists, with transcript-update skills in progress
+
+## [2026-11-12] ingest | Model follow-up -> [[mirk-pricing-ladder]], [[mirk-ghl-setup]], [[mirk-offers-and-pricing]]: old plans retired, all work comes from assessments, $999 not credited, GHL scope reduced

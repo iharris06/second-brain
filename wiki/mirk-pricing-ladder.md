@@ -7,9 +7,14 @@ updated: 2026-11-12
 
 Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). These override the older prices in [[mirk-offers-and-pricing]].
 
+## Model
+- **All work comes from assessments.** The old plan tiers (Starter/Core/Pro, Essentials, voice plans) are retired.
+- **Concierge framework:** audit the current process, optimize it, then automate it. Each cycle surfaces new work to automate or build.
+- **Exit:** when a client no longer needs the retainer, they cancel. A possible light ~$200/mo retainer would cover occasional one-off questions.
+
 ## Ladder
 1. **Free assessment:** exactly ONE, given in exchange for a testimonial.
-2. **Paid assessment:** $999.
+2. **Paid assessment:** $999. It does **not** credit toward the retainer (possible exception for early clients).
 3. **Monthly concierge retainer:** capped at 6 client spots, priced by order of signing:
 
 | Spot | Price/mo |
@@ -25,6 +30,8 @@ Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). 
 - **Voxer access** to Ian, with answers within 12 business hours.
 - **Done-for-you** work is billed extra from the upsell menu below.
 - Tooling is Claude Cowork.
+
+**Tools for done-for-you work:** whatever automates the process: Claude Cowork, Codex, Grok bot, Make/Zapier and others, leaning toward AI agents like Cowork for simplicity. GHL is only for CRM and maybe voice AI, and may be cancelled.
 
 ## Done-for-you upsell menu
 Sold on top of the retainer, never instead of it. The retainer is the relationship where projects are found and scoped ([[Done-for-you upsell menu]]).
@@ -50,6 +57,5 @@ Sold on top of the retainer, never instead of it. The retainer is the relationsh
 - **Golden Hour:** 10–11 am every weekday, outreach only. It's on Ian's calendar.
 
 ## Open questions
-- The menu assumes Zapier/Make.com and Custom GPTs; MIRK's stack is Claude Cowork (skills) plus GHL. Which tools does each tier actually use?
-- Does the $999 assessment fee credit toward the retainer if they sign?
-- Are the older plan tiers (Starter $497 / Core $797 / Pro $1,297, Essentials, voice plans) retired?
+- Is the light ~$200/mo retainer a go, and what does it include?
+- Does the $999 credit apply to early clients, and to how many?
