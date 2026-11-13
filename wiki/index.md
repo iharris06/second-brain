@@ -9,7 +9,7 @@ Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] 
 
 ## MIRK Technologies
 - [[mirk-positioning]]: canon: one-liner, who we serve, differentiators, the DIY alternative
-- [[mirk-pricing-ladder]]: canon: 1 free → $999 assessment → retainer (6 spots, $1k/$1.5k/$2k), waitlist, Golden Hour
+- [[mirk-pricing-ladder]]: canon: 1 free → $999 assessment → retainer (6 spots, $1k/$1.5k/$2k) → done-for-you menu ($1k–10k+), waitlist, Golden Hour
 - [[mirk-icp]]: canon: $2–10M local small business, admin pain, buying triggers, disqualifiers
 - [[mirk-technologies]]: hub page for the agency: what it is, niche history, links to everything else
 - [[mirk-offers-and-pricing]]: history of older offers and prices (current pricing: mirk-pricing-ladder)

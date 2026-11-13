@@ -1,6 +1,6 @@
 ---
 type: canon
-summary: MIRK's decided pricing ladder: 1 free assessment for a testimonial, then a $999 assessment, then a concierge retainer capped at 6 spots ($1k → $1.5k → $2k). Plus the daily Golden Hour.
+summary: MIRK's decided pricing: 1 free assessment → $999 assessment → concierge retainer (6 spots, $1k/$1.5k/$2k) → done-for-you upsell menu ($1k–10k+). Plus the daily Golden Hour.
 updated: 2026-11-12
 ---
 # MIRK Pricing Ladder
@@ -22,8 +22,23 @@ Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). 
 - **Done-with-you consulting:** set up Claude Cowork with the client and help them build their own skills to replace manual processes.
 - **Two 45-minute sessions** per month; one skill gets built in those sessions.
 - **Voxer access** to Ian, with answers within 12 business hours.
-- **Done-for-you** work is billed extra, depending on the job (rubric: TODO).
+- **Done-for-you** work is billed extra from the upsell menu below.
 - Tooling is Claude Cowork.
+
+## Done-for-you upsell menu
+Sold on top of the retainer, never instead of it. The retainer is the relationship where projects are found and scoped ([[Done-for-you upsell menu]]).
+
+| Tier | Price | Deliverable |
+|---|---|---|
+| Automation Build | $1,000–3,000 | One working automation from the audit findings, plus a walkthrough video and a one-page reference doc |
+| Process Redesign | $3,000–5,000 | One core process mapped end to end, with before/after states, human/AI handoffs and a prioritized roadmap |
+| Knowledge Systems | $3,000+ | An internal knowledge base built on the client's SOPs and FAQs |
+| Custom Workflows | $3,000–5,000 | A team-wide library of skills, prompts and templates |
+| Full Implementation | $5,000–10,000+ | Custom agents, integrations and ongoing support. **Don't offer until 5–10 lower-tier projects are delivered.** |
+
+**How it sells:** never pitch it cold. When a session action item is too big for 45 minutes, say: "We can chip away at this across our next few calls, or I can take it off your plate as a project."
+
+**Target math:** 6 retainers at $1,500–2,000 is $9–12k/mo, plus 1–2 projects/month adds $2–10k from existing clients.
 
 ## When full
 - Start a waitlist and keep raising prices until finding the sweet spot.
@@ -34,7 +49,8 @@ Canon: Ian's decided answers (2026-11-12) ([[Pricing ladder and Golden Hour]]). 
 - **Golden Hour:** 10–11 am every weekday, outreach only. It's on Ian's calendar.
 
 ## Open questions
-- Done-for-you pricing rubric (coming from Ian).
-- Is "per month" right for the two 45-min sessions?
+- The menu assumes Zapier/Make.com and Custom GPTs; MIRK's stack is Claude Cowork (skills) plus GHL. Which tools does each tier actually use?
+- The menu assumes monthly strategy calls and a Notion hub with a quantified build list. Neither is in the retainer scope above. Are they part of it?
+- Are the two 45-minute sessions per month?
 - Does the $999 assessment fee credit toward the retainer if they sign?
 - Are the older plan tiers (Starter $497 / Core $797 / Pro $1,297, Essentials, voice plans) retired?

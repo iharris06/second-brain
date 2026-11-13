@@ -27,3 +27,6 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-12] query | Filled the last TODO in [[mirk-positioning]] (the DIY alternative)
 
 ## [2026-11-12] ingest | Pricing ladder and Golden Hour -> [[mirk-pricing-ladder]], [[mirk-offers-and-pricing]], [[index]]
+
+## [2026-11-12] ingest | Done-for-you upsell menu -> [[mirk-pricing-ladder]]
+- Flagged: the menu's tooling (Zapier/Make, Custom GPT) and Notion hub/strategy calls don't match the stated retainer scope.
