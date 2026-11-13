@@ -25,4 +25,4 @@ Admin time drain: hours lost every week to manual, repetitive operational work.
 They get 5+ hours a week back to spend on running and growing the business instead of on operations.
 
 ## What they'd do without us
-TODO: what is the realistic alternative (do nothing, hire admin help, DIY ChatGPT, a national agency)?
+Try it themselves, with or without AI. They don't know where to start or where to spend the money, so they burn 5–10 hours a week learning AI that isn't their job, trying to save 10. Their time is worth more than that. Paying MIRK jumpstarts them: they get the automations' hours back and need far less time to keep up with AI changes.

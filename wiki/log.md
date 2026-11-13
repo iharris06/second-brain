@@ -23,3 +23,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 
 ## [2026-11-12] query | Filled canon: [[mirk-positioning]], [[mirk-icp]] from Ian's answers
 - Niche: any local $2–10M small business (replaces the accounting test). Lead pain: admin time drain. Remaining TODO: the alternative to MIRK.
+
+## [2026-11-12] query | Filled the last TODO in [[mirk-positioning]] (the DIY alternative)
