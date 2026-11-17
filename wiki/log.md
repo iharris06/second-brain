@@ -36,3 +36,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-12] ingest | Model follow-up -> [[mirk-pricing-ladder]], [[mirk-ghl-setup]], [[mirk-offers-and-pricing]]: old plans retired, all work comes from assessments, $999 not credited, GHL scope reduced
 
 ## [2026-11-12] query | Shelved the $200 light retainer; planned a Notion CRM to replace GHL later
+
+## [2026-11-16] ingest | 10-Person Warm List (updated) -> [[mirk-sales-and-outreach]]: removed accounting contact; added concrete, roofing, general contracting, electrical sales/dance studio
