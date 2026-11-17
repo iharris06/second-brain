@@ -1,7 +1,7 @@
 ---
 type: topic
 summary: "7-day sprint, niche outreach, scripts, lead lists, objections."
-updated: 2026-11-12
+updated: 2026-11-16
 ---
 # MIRK Sales & Outreach
 
@@ -15,7 +15,7 @@ The recurring theme across the notes: volume of conversations matters more than 
 - **Agent-driven prospecting**: see [[hyperagent]].
 
 ## Lists
-- Warm list for the AOA sprint (landscaping, PT, chiro, accounting, insurance, law, etc.) ([[10-Person Warm List]]).
+- Warm list for the AOA sprint: 11 names across landscaping, PT, chiro, sun shades, insurance, distribution, law, concrete, roofing, general contracting, and electrical sales / dance studio. Workflow focus not yet filled in ([[10-Person Warm List]]).
 - ~34 known contacts tagged New Prospect ([[Known contacts]]).
 - Loose leads: pool companies met at the gym and at a dance recital ([[Leads]]).
 
