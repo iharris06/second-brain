@@ -18,7 +18,7 @@ The recurring theme across the notes: volume of conversations matters more than 
 - Partner handout: what MIRK does, who to watch for, four casual qualifying questions (decision maker, one pain, tried AI yet, would they pay to get 5 hours a week back), and how to hand a lead off ([[Referral Partner Guide]]).
 - Partners never have to qualify, but qualified intros are better for both sides ([[Referral Partner Guide]]).
 - Referrals go straight to the audit: $999 today, may rise later; money back if Ian can't find 5 hours a week to give back. A free intro call (who Ian is, past assessments, then the ask to book) is only for hesitant leads. After the audit the usual path is the AI Concierge; done-for-you builds cost more and aren't pitched up front. Clinics and patient-data work are out ([[Referral Partner Guide]]).
-- TODO: referral thank-you terms not decided yet.
+- Referral payout: 10% of the client's first purchase; 10% of recurring charges (e.g. the concierge) for the first 12 months, then it stops; later one-off purchases earn nothing ([[Referral Partner Guide]]).
 
 ## Lists
 - Warm list for the AOA sprint: 11 names across landscaping, PT, chiro, sun shades, insurance, distribution, law, concrete, roofing, general contracting, and electrical sales / dance studio. Workflow focus not yet filled in ([[10-Person Warm List]]).

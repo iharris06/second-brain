@@ -2,8 +2,6 @@
 
 Saved 2026-11-20 from the Claude Doc "MIRK Referral Partner Guide" (made with Claude, reviewed by Ian). Handout for referral partners such as Riley and Brendan.
 
-> TODO (Ian): referral thank-you terms are still to be decided. The "Thank you" section below is a placeholder.
-
 Thanks for sending people my way. This is everything you need in about three minutes: what I do, who to watch for, and a few easy questions that tell us both whether an intro is worth making.
 
 You never have to qualify anyone. But a quick check helps the people you send get real help fast, and it means more of your intros turn into work.
@@ -69,6 +67,10 @@ I'll keep you posted on how each intro goes.
 
 ## Thank you
 
-TODO: referral thank-you terms to be decided.
+When someone you send becomes a client, you get paid:
+
+- **Their first purchase:** 10%. On a $999 audit, that's about $100.
+- **Monthly services like the AI Concierge:** 10% of their monthly payment for the first 12 months. On a $2,000/month plan, that's $200 a month for a year.
+- **Later one-off purchases**, like a project they buy months down the road, don't earn a referral payment.
 
 — Ian Harris, MIRK Technologies

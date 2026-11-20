@@ -45,3 +45,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: referrals start with the $999 audit; free intro call only for hesitant leads
 
 ## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: builds not pitched up front, concierge after the audit; clinics dropped
+
+## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: referral payout terms added
