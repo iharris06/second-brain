@@ -38,3 +38,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-12] query | Shelved the $200 light retainer; planned a Notion CRM to replace GHL later
 
 ## [2026-11-16] ingest | 10-Person Warm List (updated) -> [[mirk-sales-and-outreach]]: removed accounting contact; added concrete, roofing, general contracting, electrical sales/dance studio
+
+## [2026-11-18] ingest | 103 AI Use Cases - Alex Lieberman (X post) -> [[ai-use-case-library]] (new), [[index]]
