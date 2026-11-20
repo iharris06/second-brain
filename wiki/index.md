@@ -1,7 +1,7 @@
 ---
 type: index
 summary: "Catalog of every wiki page. Start here."
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 # Index
 
@@ -15,7 +15,7 @@ Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] 
 - [[mirk-offers-and-pricing]]: history of older offers and prices (current pricing: mirk-pricing-ladder)
 - [[ai-use-case-library]]: menu of agent use cases to pitch in assessments, by client type, plus ones to run for MIRK
 - [[ai-audit-process]]: intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough
-- [[mirk-sales-and-outreach]]: 7-day sprint, niche outreach, scripts, lead lists, objections
+- [[mirk-sales-and-outreach]]: 7-day sprint, niche outreach, referral partner guide, scripts, lead lists, objections
 - [[mirk-ghl-setup]]: GoHighLevel agency setup, A2P, Essentials workflows, CRM tags
 - [[hyperagent]]: agent-based prospecting with gap scoring; real-estate listing-kit offer
 - [[dentimax]]: lead for an outbound demo-booking feature; discovery questions
