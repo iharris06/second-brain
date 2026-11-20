@@ -14,8 +14,7 @@ I help local business owners use AI to get time back. I'm a backend engineer wit
 
 - **AI Business Audit ($999 today):** where I'd like every referral to start. I map how work actually flows through the business, show where time and money are leaking, and lay out which AI fixes pay off first, in an interactive report the owner can click through. If I can't find at least 5 hours a week to give back, they get their money back. The price may go up later, so please don't promise $999 for good.
 - **Not sure yet? A free intro call:** only for people who are hesitant or just want a no-pressure conversation. I'll tell them who I am and what I do, show what past assessments looked like and how one could help them, then ask if they're ready to book.
-- **One-time builds:** a single tool or automation built for them, like missed-call text back, lead follow-up, or document reminders.
-- **AI Concierge:** ongoing help where I build alongside the owner and their team so they can keep using AI on their own.
+- **AI Concierge:** the usual next step after the audit. I help the owner and their team build the fixes themselves, so they can keep using AI on their own. If they'd rather I build it for them, I can, at a higher cost.
 
 The one-liner if someone asks: *"Ian builds simple AI tools for local businesses so owners stop doing busywork. Most owners start with his AI Business Audit."*
 
@@ -26,7 +25,6 @@ The one-liner if someone asks: *"Ian builds simple AI tools for local businesses
 **Good fits:**
 
 - Professional offices: accounting, law, insurance, real estate teams
-- Clinics and practices: physical therapy, dental, chiropractic, med spas
 - Home services: HVAC, plumbing, roofing, landscaping, sunshades
 
 **What you'll hear them say:**
@@ -44,6 +42,7 @@ The one-liner if someone asks: *"Ian builds simple AI tools for local businesses
 - Brand-new solo businesses that aren't making money yet
 - Large companies with their own IT department
 - Someone who only wants a website or social media posting
+- Medical clinics or anything that touches patient information
 
 ## Quick qualifying: four casual questions
 

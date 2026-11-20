@@ -17,7 +17,7 @@ The recurring theme across the notes: volume of conversations matters more than 
 ## Referral partners
 - Partner handout: what MIRK does, who to watch for, four casual qualifying questions (decision maker, one pain, tried AI yet, would they pay to get 5 hours a week back), and how to hand a lead off ([[Referral Partner Guide]]).
 - Partners never have to qualify, but qualified intros are better for both sides ([[Referral Partner Guide]]).
-- Referrals go straight to the audit: $999 today, may rise later; money back if Ian can't find 5 hours a week to give back. A free intro call (who Ian is, past assessments, then the ask to book) is only for hesitant leads ([[Referral Partner Guide]]).
+- Referrals go straight to the audit: $999 today, may rise later; money back if Ian can't find 5 hours a week to give back. A free intro call (who Ian is, past assessments, then the ask to book) is only for hesitant leads. After the audit the usual path is the AI Concierge; done-for-you builds cost more and aren't pitched up front. Clinics and patient-data work are out ([[Referral Partner Guide]]).
 - TODO: referral thank-you terms not decided yet.
 
 ## Lists
@@ -32,6 +32,5 @@ The recurring theme across the notes: volume of conversations matters more than 
 
 ## Open questions
 - [[Referral Partner Guide]] differs from canon in places; canon wins until Ian updates one or the other:
-  - It lists one-time builds as a standalone offer; [[mirk-pricing-ladder]] sells done-for-you work only on top of the retainer.
-  - It names clinics (PT, dental, chiro, med spas) as good fits and sizes fit by headcount (3–50 people) with remote work possible; [[mirk-icp]] sets $2–10M revenue, local East Valley, and excludes heavy compliance to start.
+  - It sizes fit by headcount (3–50 people) with remote work possible; [[mirk-icp]] sets $2–10M revenue and local East Valley.
   - The audit's 5-hours-a-week money-back guarantee isn't in [[mirk-pricing-ladder]] yet.
