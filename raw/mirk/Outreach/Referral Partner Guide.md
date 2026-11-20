@@ -12,12 +12,12 @@ You never have to qualify anyone. But a quick check helps the people you send ge
 
 I help local business owners use AI to get time back. I'm a backend engineer with eight years at a global consulting firm, and I grew up watching my parents run small businesses here in Arizona.
 
-- **Free 15-minute call:** I ask how things run, find the one process that's eating the most time, and come back with one thing that could actually help. No pitch deck, no pressure.
-- **AI Business Audit ($999 today):** the full picture. I map how work actually flows through the business, show where time and money are leaking, and lay out which AI fixes pay off first, in an interactive report the owner can click through. If I can't find at least 5 hours a week to give back, they get their money back. Best for owners with several problems or a bigger team. The price may go up later, so please don't promise $999 for good.
+- **AI Business Audit ($999 today):** where I'd like every referral to start. I map how work actually flows through the business, show where time and money are leaking, and lay out which AI fixes pay off first, in an interactive report the owner can click through. If I can't find at least 5 hours a week to give back, they get their money back. The price may go up later, so please don't promise $999 for good.
+- **Not sure yet? A free intro call:** only for people who are hesitant or just want a no-pressure conversation. I'll tell them who I am and what I do, show what past assessments looked like and how one could help them, then ask if they're ready to book.
 - **One-time builds:** a single tool or automation built for them, like missed-call text back, lead follow-up, or document reminders.
 - **AI Concierge:** ongoing help where I build alongside the owner and their team so they can keep using AI on their own.
 
-The one-liner if someone asks: *"Ian builds simple AI tools for local businesses so owners stop doing busywork. The first call is free."*
+The one-liner if someone asks: *"Ian builds simple AI tools for local businesses so owners stop doing busywork. Most owners start with his AI Business Audit."*
 
 ## Who to look out for
 
@@ -52,7 +52,7 @@ These fit into a normal conversation. You don't need all four.
 1. **"Are you the one who makes the call on tools and spending?"** If not, who is? (Intros to the decision maker go much further.)
 2. **"What's the one thing you'd love off your plate?"** A specific, repetitive task is a great sign.
 3. **"Have you tried using AI for any of that yet?"** Curious or frustrated both work. "I hate tech" is a yellow flag.
-4. **"If something saved you five hours a week, would you put money toward it this year?"** A yes or a maybe means it's worth a call.
+4. **"If something saved you five hours a week, would you put money toward it this year?"** A yes or a maybe means they're worth an intro.
 
 **Green light:** decision maker + a real pain + open to it. Send them over.
 
@@ -62,7 +62,7 @@ These fit into a normal conversation. You don't need all four.
 
 Pick whichever is easiest:
 
-- **Group text or email:** introduce us both, one line on what they mentioned. Example: *"Ian, meet Sarah from Desert CPA. She's buried in client document chasing. Sarah, Ian's the AI guy I mentioned, his first call is free."*
+- **Group text or email:** introduce us both, one line on what they mentioned. Example: *"Ian, meet Sarah from Desert CPA. She's buried in client document chasing. Sarah, Ian's the AI guy I mentioned, he can show you how his audits have helped other owners."*
 - **Send me their info:** name, business, phone or email, and what they said. I'll reach out within one business day and mention you.
 - **Share my card:** mirktechnologies.com/card has my contact info and saves to their phone in one tap.
 

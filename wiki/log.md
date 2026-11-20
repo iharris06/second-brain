@@ -41,3 +41,5 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 
 ## [2026-11-20] ingest | Referral Partner Guide -> [[mirk-sales-and-outreach]], [[index]]
 - Flagged: guide's free call, standalone builds, clinic fits and money-back guarantee differ from [[mirk-pricing-ladder]] / [[mirk-icp]].
+
+## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: referrals start with the $999 audit; free intro call only for hesitant leads
