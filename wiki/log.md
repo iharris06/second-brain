@@ -38,3 +38,6 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-12] query | Shelved the $200 light retainer; planned a Notion CRM to replace GHL later
 
 ## [2026-11-16] ingest | 10-Person Warm List (updated) -> [[mirk-sales-and-outreach]]: removed accounting contact; added concrete, roofing, general contracting, electrical sales/dance studio
+
+## [2026-11-20] ingest | Referral Partner Guide -> [[mirk-sales-and-outreach]], [[index]]
+- Flagged: guide's free call, standalone builds, clinic fits and money-back guarantee differ from [[mirk-pricing-ladder]] / [[mirk-icp]].
