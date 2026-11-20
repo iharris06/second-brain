@@ -39,6 +39,10 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 
 ## [2026-11-16] ingest | 10-Person Warm List (updated) -> [[mirk-sales-and-outreach]]: removed accounting contact; added concrete, roofing, general contracting, electrical sales/dance studio
 
+## [2026-11-17] ingest | Warm Outreach Scripts -> skills/warm-outreach, [[mirk-sales-and-outreach]]
+
+## [2026-11-18] ingest | 103 AI Use Cases - Alex Lieberman (X post) -> [[ai-use-case-library]] (new), [[index]]
+
 ## [2026-11-20] ingest | Referral Partner Guide -> [[mirk-sales-and-outreach]], [[index]]
 - Flagged: guide's free call, standalone builds, clinic fits and money-back guarantee differ from [[mirk-pricing-ladder]] / [[mirk-icp]].
 
@@ -49,3 +53,4 @@ Append-only. Format: `## [YYYY-MM-DD] <ingest|query|lint|setup> | <what>`
 ## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: referral payout terms added
 
 ## [2026-11-20] ingest | Referral Partner Guide (revised) -> [[mirk-sales-and-outreach]]: payout also covers a build or concierge that comes out of the audit
+

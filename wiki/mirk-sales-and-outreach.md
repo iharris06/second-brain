@@ -8,6 +8,7 @@ updated: 2026-11-20
 The recurring theme across the notes: volume of conversations matters more than polished materials. Warm network first, cold calls and walk-ins second, social content last ([[7 Day Plan]]).
 
 ## Playbooks
+- **Warm outreach scripts** (current): one-liner offering one free AI assessment this month; text, DM, email, call, in-person, reconnect, $999 flip after a testimonial, and engagement DMs. One offer per message, log every send in the Warm Outreach Tracker. Skill: `skills/warm-outreach` ([[Warm Outreach Scripts]]).
 - **7-day first-client sprint**: build warm (15–20) and cold (30) lists, send personal DMs, book 5–8 audits, deliver the same day, walk through and close, follow up (most yeses come on the 2nd touch), offer missed-call text-back alone to hesitant prospects ([[7 Day Plan]]).
 - **Accounting niche**: "local engineer researching, not selling" outreach, with a call guide ([[Outreach and call for Accounting]]).
 - **Cold email / video audit**: point out one specific GBP issue, offer a 2-min video ([[Cold email]]).

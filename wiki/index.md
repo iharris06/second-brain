@@ -13,6 +13,7 @@ Read this first. One line per wiki page. Sources live in `raw/`; see [[AGENTS]] 
 - [[mirk-icp]]: canon: $2–10M local small business, admin pain, buying triggers, disqualifiers
 - [[mirk-technologies]]: hub page for the agency: what it is, niche history, links to everything else
 - [[mirk-offers-and-pricing]]: history of older offers and prices (current pricing: mirk-pricing-ladder)
+- [[ai-use-case-library]]: menu of agent use cases to pitch in assessments, by client type, plus ones to run for MIRK
 - [[ai-audit-process]]: intake survey → discovery call → Claude/NotebookLM synthesis → Business X-Ray → walkthrough
 - [[mirk-sales-and-outreach]]: 7-day sprint, niche outreach, referral partner guide, scripts, lead lists, objections
 - [[mirk-ghl-setup]]: GoHighLevel agency setup, A2P, Essentials workflows, CRM tags
